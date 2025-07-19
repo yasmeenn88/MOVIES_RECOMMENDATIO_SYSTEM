@@ -1,6 +1,6 @@
 # 🎬 Movies Recommendation System
 
-A simple yet effective content-based movie recommendation system built using **Python**, **Pandas**, **Scikit-learn**, and **Streamlit**.
+A simple yet effective content-based movie recommendation system built using **Python**, **Scikit-learn**, and **Streamlit**.
 
 ---
 
@@ -39,11 +39,24 @@ These features are combined and vectorized using **TF-IDF**, then similarity is 
      - Types a movie name.
      - Gets the top 10 recommended movies.
 ---
-## 📂 Dataset
+##  Dataset
 
 We used the following dataset from Kaggle to build and test our recommendation system:
 
 🔗 [TMDB Movies Dataset 2023 – 930K+ Movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
+
+---
+## 📁 Project Structure
+
+```bash
+Movies_RS/
+│
+├── Notebook.ipynb            # Jupyter Notebook for EDA and testing
+├── UI.py                     # Streamlit app interface
+├── requirements.txt          # Project dependencies
+├── tfidf_vectorizer.pkl      # Saved TF-IDF vectorizer model
+├── tfidf_matrix.pkl          # Saved TF-IDF matrix
+└── movies_df.pkl             # Pickled DataFrame of processed movie data
 
 ---
 
@@ -60,3 +73,5 @@ We used the following dataset from Kaggle to build and test our recommendation s
   <img src="assets/img1.png" alt="Rampage Demo 1" width="400"/>
   <img src="assets/img2.jpg" alt="Rampage Demo 2" width="400"/>
 </p>
+
+---
