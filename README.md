@@ -44,13 +44,12 @@ These features are combined and vectorized using **TF-IDF**, then similarity is 
 ##  Movie Recommendation Demo Results
 
 ### 🎩 The Godfather
-<p align="center">
-  <img src="assets/demo1.png" alt="The Godfather Demo 1" width="400"/>
-  <img src="assets/demo2.png" alt="The Godfather Demo 2" width="400"/>
-</p>
+<img src="assets/demo1.png" alt="The Godfather Demo 1" width="500"/>
+<br>
+<img src="assets/demo2.png" alt="The Godfather Demo 2" width="500"/>
 
 ### 🦍 Rampage
-<p align="center">
-  <img src="assets/img1.png" alt="Rampage Demo 1" width="400"/>
-  <img src="assets/img2.jpg" alt="Rampage Demo 2" width="400"/>
-</p>
+<img src="assets/img1.png" alt="Rampage Demo 1" width="500"/>
+<br>
+<img src="assets/img2.jpg" alt="Rampage Demo 2" width="500"/>
+
