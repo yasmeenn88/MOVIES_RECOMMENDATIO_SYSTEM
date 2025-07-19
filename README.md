@@ -38,6 +38,12 @@ These features are combined and vectorized using **TF-IDF**, then similarity is 
    - Simple web interface where the user:
      - Types a movie name.
      - Gets the top 10 recommended movies.
+---
+## 📂 Dataset
+
+We used the following dataset from Kaggle to build and test our recommendation system:
+
+🔗 [TMDB Movies Dataset 2023 – 930K+ Movies](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
 
 ---
 
