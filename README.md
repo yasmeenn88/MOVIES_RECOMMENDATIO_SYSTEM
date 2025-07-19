@@ -54,4 +54,3 @@ These features are combined and vectorized using **TF-IDF**, then similarity is 
   <img src="assets/img1.png" alt="Rampage Demo 1" width="400"/>
   <img src="assets/img2.jpg" alt="Rampage Demo 2" width="400"/>
 </p>
-
