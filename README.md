@@ -49,7 +49,7 @@ We used the following dataset from Kaggle to build and test our recommendation s
 ## 📁 Project Structure
 
 ```bash
-Movies_RS/
+MOVIES_RECOMMENDATION_SYSTEM/
 │
 ├── Notebook.ipynb            # Jupyter Notebook for EDA and testing
 ├── UI.py                     # Streamlit app interface
