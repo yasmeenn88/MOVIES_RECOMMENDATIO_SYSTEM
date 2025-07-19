@@ -57,7 +57,7 @@ Movies_RS/
 ├── tfidf_vectorizer.pkl      # Saved TF-IDF vectorizer model
 ├── tfidf_matrix.pkl          # Saved TF-IDF matrix
 └── movies_df.pkl             # Pickled DataFrame of processed movie data
-
+```
 ---
 
 ##  Movie Recommendation Demo Results
